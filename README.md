@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **NadivNN/NadivNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![NadivNN's Stats](https://github-readme-stats.vercel.app/api?username=NadivNN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![NadivNN's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadivNN&theme=vue-dark&hide_border=true)
+
+![NadivNN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadivNN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
